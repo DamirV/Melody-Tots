@@ -1,7 +1,59 @@
-# Privacy Policy for Melody Tots
+# Privacy Policy / Политика конфиденциальности / 隐私政策 / नीति गोपनीयता / سياسة الخصوصية
 
-This is an offline application that **does not collect, store, or share** any user data.
+## English
+**Privacy Policy for Melody Tots**  
 
-### Contact
+This is an offline application that **does not collect, store, or share** any user data.  
+
+### Contact  
 For any questions:  
 Email: v.d.d.8@ya.ru  
+Developer: Damir Valiullin  
+
+---
+
+## Русский
+**Политика конфиденциальности Melody Tots**  
+
+Это оффлайн-приложение, которое **не собирает, не хранит и не передает** какие-либо пользовательские данные.  
+
+### Контакты  
+По всем вопросам:  
+Email: v.d.d.8@ya.ru  
+Разработчик: Дамир Валиуллин  
+
+---
+
+## 中文
+**旋律宝贝 隐私政策**  
+
+这是一个离线应用程序，**不会收集、存储或共享**任何用户数据。  
+
+### 联系方式  
+如有任何问题：  
+邮箱：v.d.d.8@ya.ru  
+开发者：Damir Valiullin  
+
+---
+
+## हिन्दी
+**बच्चों की मधुर धुन गोपनीयता नीति**  
+
+यह एक ऑफ़लाइन एप्लिकेशन है जो **किसी भी उपयोगकर्ता डेटा को एकत्र, संग्रहीत या साझा नहीं करता है**।  
+
+### संपर्क  
+किसी भी प्रश्न के लिए:  
+ईमेल: v.d.d.8@ya.ru  
+डेवलपर: Damir Valiullin  
+
+---
+
+## العربية
+**سياسة الخصوصية لتطبيق لحن الصغار**  
+
+هذا تطبيق يعمل دون اتصال بالإنترنت **لا يجمع ولا يخزن ولا يشارك** أي بيانات للمستخدمين.  
+
+### للتواصل  
+لأي استفسارات:  
+البريد الإلكتروني: v.d.d.8@ya.ru  
+المطور: Damir Valiullin  
