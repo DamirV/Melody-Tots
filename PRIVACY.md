@@ -8,8 +8,7 @@ This is an offline application that **does not collect, store, or share** any us
 ### Contact  
 For any questions:  
 Email: v.d.d.8@ya.ru  
-Developer: Damir Valiullin  
-
+Developer: Damlin
 ---
 
 ## Русский
@@ -20,7 +19,7 @@ Developer: Damir Valiullin
 ### Контакты  
 По всем вопросам:  
 Email: v.d.d.8@ya.ru  
-Разработчик: Дамир Валиуллин  
+Разработчик: Damlin
 
 ---
 
@@ -32,7 +31,7 @@ Email: v.d.d.8@ya.ru
 ### 联系方式  
 如有任何问题：  
 邮箱：v.d.d.8@ya.ru  
-开发者：Damir Valiullin  
+开发者: Damlin
 
 ---
 
@@ -44,7 +43,7 @@ Email: v.d.d.8@ya.ru
 ### संपर्क  
 किसी भी प्रश्न के लिए:  
 ईमेल: v.d.d.8@ya.ru  
-डेवलपर: Damir Valiullin  
+डेवलपर: Damlin
 
 ---
 
@@ -56,4 +55,4 @@ Email: v.d.d.8@ya.ru
 ### للتواصل  
 لأي استفسارات:  
 البريد الإلكتروني: v.d.d.8@ya.ru  
-المطور: Damir Valiullin  
+المطور: Damlin  
