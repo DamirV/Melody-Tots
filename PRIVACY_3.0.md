@@ -18,7 +18,7 @@ The integrated Huawei Ads SDK may automatically collect:
 3. **Parental Control**: All in-app interactions are designed for parent-operated use
 
 Full Huawei Ads policy:
-[https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/privacy-statement-0000001050042021](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/privacy-statement-0000001050042021)
+[https://www.huawei.com/en/privacy-policy](https://www.huawei.com/en/privacy-policy)
 
 ### Contact
 Email: v.d.d.8@ya.ru  
@@ -44,7 +44,7 @@ Huawei Ads SDK может автоматически собирать:
 3. **Родительский контроль**: Все взаимодействия рассчитаны на использование родителями
 
 Политика Huawei Ads:
-[https://developer.huawei.com/consumer/ru/doc/development/HMSCore-Guides/privacy-statement-0000001050042021](https://developer.huawei.com/consumer/ru/doc/development/HMSCore-Guides/privacy-statement-0000001050042021)
+[https://www.huawei.com/en/privacy-policy](https://www.huawei.com/en/privacy-policy)
 
 ### Контакты
 Email: v.d.d.8@ya.ru  
@@ -70,7 +70,7 @@ Email: v.d.d.8@ya.ru
 3. **家长控制**: 所有功能需家长操作
 
 华为广告完整政策:
-[https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/privacy-statement-0000001050042021](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/privacy-statement-0000001050042021)
+[https://www.huawei.com/en/privacy-policy](https://www.huawei.com/en/privacy-policy)
 
 ### 联系方式
 邮箱: v.d.d.8@ya.ru  
@@ -96,7 +96,7 @@ Huawei Ads SDK स्वचालित रूप से एकत्र कर 
 3. **पैतृक नियंत्रण**: सभी इंटरैक्शन माता-पिता द्वारा संचालित हैं
 
 Huawei Ads नीति:
-[https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/privacy-statement-0000001050042021](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/privacy-statement-0000001050042021)
+[https://www.huawei.com/en/privacy-policy](https://www.huawei.com/en/privacy-policy)
 
 ### संपर्क
 ईमेल: v.d.d.8@ya.ru  
@@ -125,7 +125,7 @@ Huawei Ads नीति:
 3. **التحكم الأبوي**: جميع التفاعلات مصممة لاستخدام الوالدين
 
 سياسة Huawei Ads:
-[https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/privacy-statement-0000001050042021](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/privacy-statement-0000001050042021)
+[https://www.huawei.com/en/privacy-policy](https://www.huawei.com/en/privacy-policy)
 
 ### للتواصل
 البريد الإلكتروني: v.d.d.8@ya.ru  
